@@ -1,5 +1,6 @@
 package com.premiumglass.launcher
 
+import androidx.compose.foundation.verticalScroll
 import android.content.Intent
 import android.provider.Settings
 import androidx.compose.foundation.background
